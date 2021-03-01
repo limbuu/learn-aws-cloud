@@ -20,6 +20,12 @@
 * [AWS Developer: Optimizing on AWS](https://www.edx.org/course/aws-developer-optimizing-on-aws)
 
 ## Github Links
-### [AWS Github](https://github.com/aws)
-### [AWS Samples](https://github.com/aws-samples)
-### [AWS Labs](https://github.com/awslabs)
+* [AWS Github](https://github.com/aws)
+* [AWS Samples](https://github.com/aws-samples)
+* [AWS Labs](https://github.com/awslabs)
+* [AWS Python Sample](https://github.com/aws-samples/aws-python-sample)
+* [AWS SDK for Python](https://github.com/boto/boto3)
+* [AWS SDK for Go](https://github.com/aws/aws-sdk-go)
+
+## Training and Certification from AWS
+* [Build your future in the AWS Cloud](https://www.aws.training/Dashboard/?cta=tctopbanner)
